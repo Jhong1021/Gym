@@ -56,7 +56,7 @@ const Testimony = () => {
                                 <div className="mt-10 flex items-center">
                                     <img
                                         className="h-11 w-11 flex-shrink-0 rounded-full object-cover"
-                                        src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.30808-1/451623888_1195850665096071_879731209377699892_n.jpg?stp=dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=91JsVLzpEk4Q7kNvgE88rra&_nc_zt=24&_nc_ht=scontent.fmnl17-1.fna&_nc_gid=AWPW2sI1qkJGn_ki7abCxsX&oh=00_AYCPu8oKTa_YwflVWC_u0lJaQ3-u7HJYAmA7nfBKhUkzDA&oe=67449451"
+                                        src="https://www.cameo.com/cdn-cgi/image/fit=cover,format=auto,width=500,height=500/https://cdn.cameo.com/resizer/EB2otn6YJ_avatar-1687038155759.jpg"
                                         alt="Jacob Jones"
                                     />
                                     <div className="ml-4">
@@ -92,7 +92,7 @@ const Testimony = () => {
                             <div className="mt-4 flex items-center">
                                 <img
                                     className="h-11 w-11 flex-shrink-0 rounded-full object-cover"
-                                    src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t39.30808-1/449298640_2280457188958427_1314692579417369936_n.jpg?stp=c0.0.960.960a_dst-jpg_s200x200&_nc_cat=104&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=0pamUFqdYAwQ7kNvgHviZLQ&_nc_zt=24&_nc_ht=scontent.fmnl17-4.fna&_nc_gid=A3dOjn2k90q-1AuNlR9PDv2&oh=00_AYD-YbH2SGvF8ZAUZ6xWiUL_7wa0Tv06HfipKcsR-w_8pA&oe=6744ABBE"
+                                    src="https://i.pinimg.com/236x/a5/67/94/a567940c61eb580455d8f886f55d21b1.jpg"
                                     alt="James Khawalski"
                                 />
                                 <div className="ml-4">
@@ -125,11 +125,11 @@ const Testimony = () => {
                             <div className="mt-4 flex items-center">
                                 <img
                                     className="h-11 w-11 flex-shrink-0 rounded-full object-cover"
-                                    src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t39.30808-6/440120089_3693723947541977_7958484500222122525_n.jpg?stp=cp6_dst-jpg&_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eIdnA49r2LwQ7kNvgF3u1v_&_nc_zt=23&_nc_ht=scontent.fmnl17-3.fna&_nc_gid=Ax8iFfdRDxgP72ZImnFng5L&oh=00_AYBQiNqGujhTLy1TZcvGrag6GJ-GVpKAVf0ByctCRan0Pg&oe=6744AAE7"
+                                    src="https://i.pinimg.com/474x/25/3a/bf/253abf4f1f4bc16b6dc04571f8d21624.jpg"
                                     alt="Jacob Jones"
                                 />
                                 <div className="ml-4">
-                                    <p className="text-base font-bold">Jacob Jones</p>
+                                    <p className="text-base font-bold">Fuji Sixto</p>
                                     <p className="mt-0.5 text-sm">Youtube Personality</p>
                                 </div>
                             </div>
